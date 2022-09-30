@@ -1,2 +1,31 @@
 @charset 'utf-8';
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 10vh;
+    background: #d34f08;
+}
+header h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: white;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 90vh;
+}
