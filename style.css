@@ -45,3 +45,8 @@ footer h2{
     color: white;
     font-size: 18px;
 }
+footer a{
+    text-decoration: none;
+    color: #d34f08;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
