@@ -9,16 +9,32 @@
 header{
     display: flex;
     align-items: center;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
     width: 100%;
     height: 10vh;
     background: #d34f08;
+    padding-inline-end: 10%;
+    padding-inline-start: 10%;
 }
 header h1{
     font-family: 'Courier New', Courier, monospace;
     font-size: 24px;
     color: white;
+}
+header nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header nav a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header nav a:hover{
+    color: #01075b;
+    transition: ease-in .3s;
 }
 
 .container{
@@ -33,6 +49,23 @@ header h1{
     width: 560px;
     height: 315px;
 }
+
+/*Estilização do container about.html*/
+
+.container article{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container article p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 24px;
+}
+
+/*Estilização do container about.html*/
 
 footer{
     width: 100%;
@@ -61,6 +94,11 @@ footer a{
     .container iframe{
         width: 80%;
         height: calc(0.5625*70%);
+    }
+
+    header {
+        flex-direction: column;
+        padding-block-end: 3%;
     }
 
 }
