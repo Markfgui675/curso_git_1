@@ -95,6 +95,7 @@ main{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    cursor: pointer;
 }
 .container-box .box2.box2{
     background: #01075b;
