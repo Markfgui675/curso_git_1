@@ -41,3 +41,8 @@ Combinando os dois: _um**texto**combinado_ <br>
     }
 
 ```
+
+## Tarefas
+
+- [] CSS
+- [x] HTML
