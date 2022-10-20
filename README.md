@@ -26,4 +26,4 @@ Combinando os dois: _um**texto**combinado_ <br>
 
 ## Links
 
-[Meu insta](https://github.com/Markfgui675/CalculadoraJava)
+[Outro repositório](https://github.com/Markfgui675/CalculadoraJava)
