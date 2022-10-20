@@ -138,6 +138,14 @@ main{
 
 
 
+.box-img{
+    width: 100%;
+    height: 100vh;
+    background: url(images/tobias-rademacher-kUKF6fv0uss-unsplash.jpg);
+    background-size: cover;
+}
+
+
 
 
 
