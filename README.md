@@ -44,5 +44,5 @@ Combinando os dois: _um**texto**combinado_ <br>
 
 ## Tarefas
 
-- [] CSS
+- [ ] CSS
 - [x] HTML
