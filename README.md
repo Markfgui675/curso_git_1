@@ -31,3 +31,13 @@ Combinando os dois: _um**texto**combinado_ <br>
 ### Imagem e Link
 
 [![Logo Java](https://logospng.org/download/java/logo-java-512.png)](https://logospng.org/logo-java/)
+
+## Código
+
+```JavaScript
+
+    function soma(a, b){
+        return a + b;
+    }
+
+```
